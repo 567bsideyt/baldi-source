@@ -114,7 +114,7 @@ class Main extends Sprite
 		return openfl.Lib.current.stage.frameRate;
 	}
 
-	public function getFPS():Float
+	public function getFPS():Floatt
 	{
 		return fpsCounter.currentFPS;
 	}
