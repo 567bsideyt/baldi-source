@@ -5,6 +5,7 @@ class SMNote
 {
     public var time:Float;
     public var data:Int;
-    public var length:Float;
+    public var length::Float;
 }
+android
 #end
