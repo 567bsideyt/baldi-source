@@ -41,8 +41,8 @@ class Preloader extends FlxBasePreloader
     {
         if(Percent < 69)
         {
-            logo.scaleX += Percent / 1920;
-            logo.scaleY += Percent / 1920;
+            logo.scaleX += Percent / 1820;
+            logo.scaleY += Percent / 1820;
             logo.x -= Percent * 0.6;
             logo.y -= Percent / 2;
         }else{
