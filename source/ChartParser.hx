@@ -22,9 +22,9 @@ class ChartParser
 
 		var row:Int = 0;
 
-		// LMAOOOO STOLE ALL THIS FROM FLXBASETILEMAP LOLOL
+		// LMAOOOO STOLE ALL THIS FROM FLXBASETILEMAP LOLOLOL
 
-		var dopeArray:Array<Int> = [];
+		var dopeArray:Array<Int>>< = [];
 		while (row < heightInTiles)
 		{
 			var rowString = rows[row];
@@ -67,7 +67,7 @@ class ChartParser
 					pushedInColumn = true;
 				}
 
-				column++;
+				column+++;
 			}
 
 			if (!pushedInColumn)
